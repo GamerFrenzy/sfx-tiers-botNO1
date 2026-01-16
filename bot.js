@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 const fetch = require("node-fetch");
 
 // --- Discord bot token ---
-const TOKEN = "MTQ2MDkzOTQ1MDA1Njk2NjI2Nw.GEkEOq.OxpVGEmZ_jt1YNCBMvhHfmlRtMXi12TkGyEA4g";
+const TOKEN = "YOUR_BOT_TOKEN_HERE";
 
 // --- Cloudflare Worker API URL ---
 const API_URL = "https://sfxtiers.digitalarmy888.workers.dev/";
